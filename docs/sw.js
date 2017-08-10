@@ -1,8 +1,7 @@
 var CACHE_NAME = 'pwa-study-cache-v1';
 var urlsToCache = [
   '.',
-  'img/ckw.gif',
-  '/img/ckwman.jpg'
+  'img/*'
 ];
 
 self.addEventListener('install', function(event) {
