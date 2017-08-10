@@ -1,7 +1,7 @@
 var CACHE_NAME = 'pwa-study-cache-v1';
 var urlsToCache = [
-  '/',
-  '/img/ckw.gif',
+  '/docs',
+  '../img/ckw.gif',
   '/img/ckwman.jpg'
 ];
 
