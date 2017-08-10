@@ -1,0 +1,20 @@
+{
+  "short_name": "CKW",
+  "name": "Study PWA with ChiKuWa",
+  "icons": [
+    {
+      "src": "img/icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "img/nihil-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+
+  ],
+  "start_url": "index.html?launcher=true&utm_source=homescreen",
+  "display": "standalone",
+  "background_color": "#FFFF66"
+}
