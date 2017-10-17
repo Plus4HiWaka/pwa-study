@@ -13,7 +13,7 @@
       "sizes": "192x192"
     }
   ],
-  "start_url": "index.html?launcher=true&utm_source=homescreen",
+  "start_url": "/apps/homescreen/",
   "display": "standalone",
   "background_color": "#FFFF66"
 }
